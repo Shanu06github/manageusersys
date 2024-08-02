@@ -2,13 +2,22 @@
 
 User-Management-System:
 
+<ol>
 
-Download the zip files.
-Extract the files.
-Open xampp server.
-Go to phpmyadmin.
-Create a database name: db_admin, import database files in the provided extracted file (db_admin.sql).
-After importing , go to the browser, type localhost/User Management System/index.html. 
+  <li>Download the zip files.</li>
+   <li>Extract the files.</li>
+    <li>Open xampp server.</li>
+     <li>Go to phpmyadmin.</li>
+      <li>Create a database name: db_admin, import database files in the provided extracted file (db_admin.sql)..</li>
+      <li>After importing , go to the browser, type localhost/User Management System/index.html. </li   
+      
+</ol>
+
+
+
+
+
+
 
 
 So let’s start implementing the user management system with PHP and MySQL. Before we begin, take a look at files structure for this example.
